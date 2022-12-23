@@ -1,1 +1,1 @@
-# phase-1-project-synonym-game-
+# phase-1-project-synonym-game
